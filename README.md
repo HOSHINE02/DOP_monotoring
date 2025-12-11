@@ -23,7 +23,7 @@
 <img width="974" height="445" alt="image" src="https://github.com/user-attachments/assets/78ba8808-c2ce-407b-83ec-3c99deb6dd03" />
 
 
-4. Выполним тестовый запрос:
+4. Выполнили тестовый запрос:
     - Перешли на главную страницу Prometheus
     - В поле запроса ввели метрику `container_cpu_usage_seconds_total`
     - Нажали Execute и убедились, что данные выводятся
