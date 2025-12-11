@@ -11,7 +11,7 @@
 
 1. Открыли веб-интерфейс cAdvisor в браузере
 2. Убедились, что cAdvisor видит все контейнеры
-3. 
+
 <img width="974" height="777" alt="image" src="https://github.com/user-attachments/assets/79c4fa06-8385-46c6-b290-bf0c803fb91b" />
 
 ## Этап 3: Проверка Prometheus
